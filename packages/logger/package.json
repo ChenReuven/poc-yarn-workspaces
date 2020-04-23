@@ -1,0 +1,12 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.0"
+  }
+}
